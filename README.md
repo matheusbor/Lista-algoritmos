@@ -1,2 +1,2 @@
 # Lista algoritmos
- Lista 1 de exercícios c++
+ Listas de exercícios c++
