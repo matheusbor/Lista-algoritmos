@@ -15,7 +15,7 @@ int main(){
         if(conta_digito == 0){
             ultimo2 = digito;
 
-        } else if ( conta_digito== 1){
+        } else if ( conta_digito == 1){
             ultimo1 = digito;
         }
 
